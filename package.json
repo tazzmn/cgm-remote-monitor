@@ -78,7 +78,7 @@
     "base64url": "^3.0.1",
     "body-parser": "^1.19.0",
     "bootevent": "0.0.1",
-    "braces": "^3.0.2",
+    "braces": "^3.0.3",
     "buffer": "^6.0.3",
     "compression": "^1.7.4",
     "crypto-browserify": "^3.12.0",
