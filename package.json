@@ -68,7 +68,7 @@
     "node": "^16.x || ^14.x || ^12.x"
   },
   "dependencies": {
-    "@babel/core": "^7.11.1",
+    "@babel/core": "^7.26.10",
     "@babel/preset-env": "^7.12.11",
     "acorn": "^8.0.5",
     "acorn-jsx": "^5.3.1",
